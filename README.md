@@ -1,8 +1,8 @@
 # TesraSupernet Core integration/staging repository
-TESRA SUPERNET is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
-- Anonymized transactions using coin mixing technology, we call it Obfuscation.
-- Fast transactions featuring guaranteed zero confirmation transactions, we call it SwiftTX.
-- Decentralized blockchain voting providing for consensus based advancement of the current Masternode technology used to secure the network and provide the above features.
+### TESRA SUPERNET is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
+> - Anonymized transactions using coin mixing technology, we call it Obfuscation.
+> - Fast transactions featuring guaranteed zero confirmation transactions, we call it SwiftTX.
+> - Decentralized blockchain voting providing for consensus based advancement of the current Masternode technology used to secure the network and provide the above features.
 
 I. Project Background<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  As a landmark public chain project in the age of blockchain 3.0, TESRA SUPERNET features two major functions as transaction by second and updated user privacy. It is to bring better user experience to the large-scale commercial DAPP in the future, enabling the latter to embrace smart contract applications of various kinds.<br>
