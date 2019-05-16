@@ -4,10 +4,10 @@
 > - Fast transactions featuring guaranteed zero confirmation transactions, we call it SwiftTX.
 > - Decentralized blockchain voting providing for consensus based advancement of the current Masternode technology used to secure the network and provide the above features.
 
-I. Project Background<br>
+#### I. Project Background<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  As a landmark public chain project in the age of blockchain 3.0, TESRA SUPERNET features two major functions as transaction by second and updated user privacy. It is to bring better user experience to the large-scale commercial DAPP in the future, enabling the latter to embrace smart contract applications of various kinds.<br>
-II. Advantages of Our Solutions<br>
-A. The adoption of PoVC<br>
+#### II. Advantages of Our Solutions<br>
+. The adoption of PoVC<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  TESRA SUPERNET employs the PoVC algorithm for its consensus mechanism and integrates PoW+PoS with a later update on all as a whole. PoW is involved to produce and distribute TESRA SUPERNET, which totals 10 billion and adopts PoW to mine, a way similar to mining on bitcoin network. No big problem ever happened to bitcoin network over the 10 years of its operation, proving PoW consensus mechanism and economy model based on it more stable than others alike.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  TESRA SUPERNET also uses PoS to pack transactions for a faster process and security after block production. In cases where 51% attacks take place due to concentrated computing power, no history transactions will be able to be changed other than some impacts on subsequent production, the assets under user accounts are hence secured.<br>
 B. Solutions for Lengthy Block Confirmation<br>
