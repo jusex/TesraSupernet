@@ -1,0 +1,26 @@
+[Unit]
+Description=TESRA's distributed currency daemon
+After=network.target
+
+[Service]
+User=tesra
+Group=tesra
+
+Type=forking
+PIDFile=/var/lib/tesrad/tesrad.pid
+
+ExecStart=/usr/bin/tesrad -daemon -pid=/var/lib/tesrad/tesrad.pid \
+          -conf=/etc/tesra/tesra.conf -datadir=/var/lib/tesrad
+
+ExecStop=-/usr/bin/tesra-cli -conf=/etc/tesra/tesra.conf \
+         -datadir=/var/lib/tesrad stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

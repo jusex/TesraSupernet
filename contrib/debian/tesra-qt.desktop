@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tesra
+Comment=Tesra P2P Cryptocurrency
+Comment[fr]=Tesra, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Tesra, eşten eşe kriptografik sanal para birimi
+Exec=tesra-qt %u
+Terminal=false
+Type=Application
+Icon=tesra128
+MimeType=x-scheme-handler/tesra;
+Categories=Office;Finance;

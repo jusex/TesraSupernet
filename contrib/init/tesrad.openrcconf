@@ -1,0 +1,26 @@
+# /etc/conf.d/tesrad: config file for /etc/init.d/tesrad
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/tesra/tesra.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/tesrad"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/tesrad.pid"
+
+# Where to write tesrad data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/tesrad"
+
+# User and group to own tesrad process
+#BITCOIND_USER="tesra"
+#BITCOIND_GROUP="tesra"
+
+# Path to tesrad executable
+#BITCOIND_BIN="/usr/bin/tesrad"
+
+# Nice value to run tesrad under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

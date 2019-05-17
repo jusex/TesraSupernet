@@ -1,0 +1,6 @@
+usr/local/bin/tesra-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin16.xpm usr/share/pixmaps
+share/pixmaps/bitcoin128.png usr/share/pixmaps
+debian/tesra-qt.desktop usr/share/applications
+debian/tesra-qt.protocol usr/share/kde4/services/
