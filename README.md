@@ -10,6 +10,7 @@ TESRA is a cutting edge cryptocurrency, with many features not available in most
 
 More information at [tesra.io](http://www.tesra.io)
 
+
 =================================================================
 <br/>
 Project Introduction
