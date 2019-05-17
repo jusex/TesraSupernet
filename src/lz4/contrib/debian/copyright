@@ -1,9 +1,0 @@
-Format: http:
-Upstream-Name: liblz4
-Upstream-Contact: Yann Collet <Cyan4973@github.com>
-Source: https:
-
-Files: *
-Copyright: (C) 2011+ Yann Collet
-License: GPL-2+
- The full text of license: https:
