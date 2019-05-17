@@ -11,15 +11,6 @@ TESRA is a cutting edge cryptocurrency, with many features not available in most
 
 More information at [tesra.io](http://www.tesra.io)
 
-### Download
-#### Ubuntu 18.04
-https://github.com/TESRA-Project/TESRA/releases/download/v2.0.0/tesra-qml-2.0.0-ubuntu18.04.zip
-#### Windows 7,10 (64-bit)
-https://github.com/TESRA-Project/TESRA/releases/download/v2.0.0/tesra-qml-2.0.0-win.zip
-#### Android 4.4+
-https://github.com/TESRA-Project/TESRA/releases/download/v2.0.0/app-release-1.0.apk
-#### IOS
-https://itunes.apple.com/cn/app/tesrawallet/id1441621155?l=zh&ls=1&mt=8
 
 
 ### Coin Specs
