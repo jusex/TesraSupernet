@@ -13,14 +13,14 @@ More information at [tesra.io](http://www.tesra.io)
 
 
 <br/>
-Project Introduction
+###Project Introduction
 <br>
 <br>
 
-I. Project Background<br/>
+####I. Project Background<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;As a landmark public chain project in the age of blockchain 3.0, TESRA SUPERNET features two major functions as transaction by second and updated user privacy. It is to bring better user experience to the large-scale commercial DAPP in the future, enabling the latter to embrace smart contract applications of various kinds.<br/>
 
-II. Advantages of Our Solutions<br/>
+####II. Advantages of Our Solutions<br/>
 
 A. The adoption of PoVC<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;TESRA SUPERNET employs the PoVC algorithm for its consensus mechanism and integrates PoW+PoS with a later update on all as a whole. PoW is involved to produce and distribute TESRA SUPERNET, which totals 10 billion and adopts PoW to mine, a way similar to mining on bitcoin network. No big problem ever happened to bitcoin network over the 10 years of its operation, proving PoW consensus mechanism and economy model based on it more stable than others alike.<br/>
@@ -38,7 +38,7 @@ D. Insufficient AI computational resources solutions<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;TESRA SUPERNET will serve as a platform of new generation by integrating global GPU resources for the formation of a AI super computing network to offer powerful support to AI R&D with computing services.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Blockchain-based TESRA SUPERNET is in nature a DAPP achieved by applying smart contract and a platform where deep learning is available on chain. In this way the traditional real economy is better served by blockchain.<br/>
 
-III. Future Application Value<br/> 
+####III. Future Application Value<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;TESRA proposes a direct solution for the high cost of computation facing enterprises. Citing Tencent Cloud, the GPU power per T hour is worth $0.09 and the average revenue to the GPU mine is $0.01 per T hour while the figure turns out to be 0.02 according to the computing power loss after innovation. In short, 70% expenses will be saved in the process by utilizing idle resources.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;After the major network goes online, TESRA will also enable trade for user-defined data sets and models on the platform in a bid to creating a complete network ecology.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;TESRA also eyes on meaningful applications in the industry, big data cleaning, supply chain finance, to name a few. And we have developed many clients interested in those applications.
