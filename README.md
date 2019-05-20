@@ -1,7 +1,8 @@
 Tesra Supernet Core integration/staging tree
 =====================================
 
-
+What is Tesra Supernet?
+=====================================
 ### Project Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;Tesra Supernet is applied AI computing platform with decentralized architecture, which integrates computation power around the world and AI developers via community token value system, forming a virtual hyper-computer to meet rapidly growing demands of Artificial Intelligence.
   
