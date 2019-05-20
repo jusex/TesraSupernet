@@ -8,7 +8,7 @@
 #### II. Advantages of Our Solutions<br/>
 
 ##### A. The Adoption of PoVC<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Tesra Supernet employs the PoVC algorithm for its consensus mechanism and integrates PoW+PoS with a later update on all as a whole. PoW is involved to produce and distribute TESRA SUPERNET, which totals 10 billion and adopts PoW to mine, a way similar to mining on bitcoin network. No big problem ever happened to bitcoin network over the 10 years of its operation, proving PoW consensus mechanism and economy model based on it more stable than others alike.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Tesra Supernet employs the PoVC algorithm for its consensus mechanism and integrates PoW+PoS with a later update on all as a whole. PoW is involved to produce and distribute Tesra Supernet, which totals 100 billion and adopts PoW to mine, a way similar to mining on bitcoin network. No big problem ever happened to bitcoin network over the 10 years of its operation, proving PoW consensus mechanism and economy model based on it more stable than others alike.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Tesra Supernet also uses PoS to pack transactions for a faster process and security after block production. In cases where 51% attacks take place due to concentrated computing power, no history transactions will be able to be changed other than some impacts on subsequent production, the assets under user accounts are hence secured.<br/>
 
 ##### B. Solutions for Lengthy Block Confirmation<br/>
