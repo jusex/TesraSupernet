@@ -16,6 +16,10 @@ Zero knowledge proof refers to the fact that we can fully prove that they are th
 #### Adopt PoVC Consensus Mechanism
 The consensus mechanism of Tesra Supernet adopts PoVC algorithm, synthesizes the PoW PoS algorithm, and on this basis, the upgrade update is made. The total amount of Tesra Supernet.Tesra Supernet used to generate and distribute Tesra Supernet.Tesra Supernet is constant, which is 10 billion. PoW mining is used, which is similar to Bitcoin network mining. Bitcoin network has been running for nearly 10 years, and there has been no obvious problem. Its PoW consensus mechanism and economic model based on it will be more robust than other consensus mechanisms.<br/>
 
+The PoS consensus mechanism is used to package Tesra Supernet transactions, and it will be safer to handle transactions faster with the generation of. Tesra Supernet and the separation of transaction packaging. If 51% attack occurs in computing power concentration, it can only affect the generation of subsequent Tesra Supernet, and can not tamper with historical transactions to ensure the security of user account assets.
+
+#### Tesra Supernet Solves the Problem of Insufficient Computing Resources of Artificial Intelligence
+Based on the Terra Supernet block chain technology, a distributed super-computing network is developed, which can provide a low-cost and flexible computing service for AI developers. The computing node in the network may be a small and medium-sized GPU server or a GPU mine. The Tesla mining program calculation node will obtain a return on the basis of the actual task amount contribution, and the block chain will complete the calculation and allocation of the entire award.
 
 
 
