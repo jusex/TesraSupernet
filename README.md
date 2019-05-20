@@ -1,6 +1,7 @@
 What is Tesra Supernet?
 =====================================
-Tesra Supernet is a basic network that provides value transmission for AI computing network. He innovatively uses computing power to prove it, uses PoVC as consensus mechanism, supports lightning network, fast payment function, supports anonymous transaction, zero knowledge proof function. The problem of insufficient computing resources of artificial intelligence is solved. In the future, Tesra Supernet chain can also provide a good customer experience in large-scale commercial DAPP, so that it can carry a variety of intelligent contract applications.
+Tesra Supernet is a basic network that provides value transmission for AI computing network. He innovatively uses computing power to prove it, uses PoVC as consensus mechanism, supports lightning network, fast payment function, supports anonymous transaction, zero knowledge proof function. The problem of insufficient computing resources of artificial intelligence is solved. In the future, Tesra Supernet chain can also provide a good customer experience in large-scale commercial DAPP, so that it can carry a variety of intelligent contract applications.<br/>
+More information at [tesra.io](http://www.tesra.io)
   
 
 #### I. Project Background<br/>
