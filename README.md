@@ -19,10 +19,14 @@ The consensus mechanism of Tesra Supernet adopts PoVC algorithm, synthesizes the
 The PoS consensus mechanism is used to package Tesra Supernet transactions, and it will be safer to handle transactions faster with the generation of. Tesra Supernet and the separation of transaction packaging. If 51% attack occurs in computing power concentration, it can only affect the generation of subsequent Tesra Supernet, and can not tamper with historical transactions to ensure the security of user account assets.
 
 #### Tesra Supernet Solves the Problem of Insufficient Computing Resources of Artificial Intelligence
-Based on the Terra Supernet block chain technology, a distributed super-computing network is developed, which can provide a low-cost and flexible computing service for AI developers. The computing node in the network may be a small and medium-sized GPU server or a GPU mine. The Tesla mining program calculation node will obtain a return on the basis of the actual task amount contribution, and the block chain will complete the calculation and allocation of the entire award.
+Based on the Terra Supernet block chain technology, a distributed super-computing network is developed, which can provide a low-cost and flexible computing service for AI developers. The computing node in the network may be a small and medium-sized GPU server or a GPU mine. The Tesla mining program calculation node will obtain a return on the basis of the actual task amount contribution, and the block chain will complete the calculation and allocation of the entire award.<br/>
 
+The scattered GPU resources are integrated to form AI supercomputing network, and it provides powerful computing support for the research and development of artificial intelligence, which will make Tesra Supernet become the next generation computing platform of artificial intelligence industry.<br/>
 
+Based on the essence of Tesra Supernet on the chain, it is a DAPP, implemented by intelligent contract. It can realize the deep learning function on the chain. Make the blockchain better serve the traditional real economy.
 
+Tesra Supernet Plan
+=====================================
 
 
 #### II. Advantages of Our Solutions<br/>
