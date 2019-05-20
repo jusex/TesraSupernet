@@ -30,3 +30,4 @@ Based on the essence of Tesra Supernet on the chain, it is a DAPP, implemented b
 
 Reference Documentation 
 =====================================
+Bitcoin White Paper and Ethernet White Paper
