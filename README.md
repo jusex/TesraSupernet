@@ -14,7 +14,7 @@ More information at [tesra.io](http://www.tesra.io)
 
 ### Project Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;Tesra Supernet is the first applied AI computing platform with decentralized architecture, which integrates computation power around the world and AI developers via community token value system, forming a virtual hyper-computer to meet rapidly growing demands of Artificial Intelligence.
-
+  
 
 #### I. Project Background<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;As a landmark project chain project in the age of blockchain 3.0, TESRA SUPERNET features two major functions as transactions by second and updated user privacy. It is to bring better user experience to the large-scale commercial DAPP in the future, enabling the latter to embrace smart contract applications of various kinds.<br/>
