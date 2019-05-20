@@ -5,7 +5,7 @@ More information at [tesra.io](http://www.tesra.io)
   
 Tesra Supernet Innovate
 =====================================
-### Support for lightning network, fast payment function
+Support for lightning network, fast payment function
 =====================================
 
 #### II. Advantages of Our Solutions<br/>
