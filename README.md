@@ -1,17 +1,3 @@
-Tesra Core Integration/Staging Repository
-=====================================
-
-
-Tesra is a cryptocurrency with many features.
-- Anonymized transactions using coin mixing technology, we call it _Obfuscation_.
-- Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
-- Decentralized blockchain voting providing for consensus based advancement of the current Masternode
-  technology used to secure the network and provide the above features.
-
-More information at [tesra.io](http://www.tesra.io)
-
-
-
 ### Project Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;Tesra Supernet is applied AI computing platform with decentralized architecture, which integrates computation power around the world and AI developers via community token value system, forming a virtual hyper-computer to meet rapidly growing demands of Artificial Intelligence.
   
@@ -40,4 +26,6 @@ More information at [tesra.io](http://www.tesra.io)
 #### III. Future Application Value<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;Tesra proposes a direct solution for the high cost of computation facing enterprises. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;After the major network goes online, Tesra will also enable trade for user-defined data sets and models on the platform in a bid to creating a complete network ecology.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Tesra also eyes on meaningful applications in the industry, big data cleaning, supply chain finance, to name a few. And we have developed many clients interested in those applications.
+&nbsp;&nbsp;&nbsp;&nbsp;Tesra also eyes on meaningful applications in the industry, big data cleaning, supply chain finance, to name a few. And we have developed many clients interested in those applications.<br/>
+
+More information at [tesra.io](http://www.tesra.io)
