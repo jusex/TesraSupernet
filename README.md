@@ -31,5 +31,6 @@ Tesra Supernet Plan
 BlockDAG adopts entanglement protocol, also known as BlockDAG protocol. The entanglement mechanism in BlockDAG protocol can provide "quantum resistance" and resist quantum computing.<br/>
 
 #### Support for cross-chain transactions
+Tesra Supernet can implement cross-chain transactions with mainstream block chains such as Bitcoin and Etai Fang.
 
 
