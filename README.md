@@ -13,6 +13,11 @@ Tesra Supernet also modifies the underlying network transmission protocol, one i
 #### Support for Anonymous Transactions, Zero Knowledge Proof Function
 Zero knowledge proof refers to the fact that we can fully prove that they are the legitimate owners of certain rights and interests, without leaking out the relevant information-that is, the "knowledge" given to the outside world is "zero". Tesra Supernet can trade anonymously to protect data privacy on Tesra Supernet. When the data is owned by the individual, the personal information can be used and exchanged effectively without disclosing privacy. In this respect, Tesra Supernet can be extended to use scenarios such as encrypted communication and data isolation.<br/>
 
+#### Adopt PoVC Consensus Mechanism
+The consensus mechanism of Tesra Supernet adopts PoVC algorithm, synthesizes the PoW PoS algorithm, and on this basis, the upgrade update is made. The total amount of Tesra Supernet.Tesra Supernet used to generate and distribute Tesra Supernet.Tesra Supernet is constant, which is 10 billion. PoW mining is used, which is similar to Bitcoin network mining. Bitcoin network has been running for nearly 10 years, and there has been no obvious problem. Its PoW consensus mechanism and economic model based on it will be more robust than other consensus mechanisms.<br/>
+
+
+
 
 
 
