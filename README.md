@@ -5,8 +5,8 @@ More information at [tesra.io](http://www.tesra.io)
   
 Tesra Supernet Innovate
 =====================================
-Support for lightning network, fast payment function
-=====================================
+####Support for Lightning Network, Fast Payment Function
+Tesra Supernet constructs a double-layer network of transaction confirmation and modifies the underlying network transport protocol to shorten the block confirmation time. The double-layer network confirmed by ordinary transaction refers to the network composed of the main node (including super node) of ordinary pos node (abbreviated as ordinary node). The ordinary node is responsible for packaging and trading. After packing, it is broadcast to the super node and other main nodes to which the main node is linked. Super nodes are similar to CDN nodes in the field of traditional Internet, which mainly solve the problem of data synchronization and have no other privileges in consensus. If the customer initiates an instant transfer transaction in InstantSend mode, the input to the transaction will be locked to the corresponding specific transaction, the transaction will reach a locked consensus on the primary node network, and all transactions and blocks that conflict with it will be rejected forever. Unless they match the transaction that was locked at the time corresponding to the ID.. At present, the locking time of the whole network transaction is about 1 second; therefore, the fast transaction with InstantSend can achieve secure 1 second arrival, which we call second to second.
 
 #### II. Advantages of Our Solutions<br/>
 
