@@ -1,4 +1,4 @@
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/TesraSupernet/TesraSupernet/blob/master/tesrasupernetlogo.png)
 
 What is Tesra Supernet?
 =====================================
