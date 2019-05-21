@@ -7,7 +7,7 @@ More information at [tesra.io](http://www.tesra.io)
 Tesra Supernet Innovate
 =====================================
 #### Adopt PoVC consensus mechanism
-The consensus mechanism of Tesra Supernet adopts PoVC algorithm, synthesizes the PoW PoS algorithm, and on this basis, the upgrade update is made. The total amount of Tesra Supernet.Tesra Supernet used to generate and distribute Tesra Supernet.Tesra Supernet is constant, which is 10 billion. PoW mining is used, which is similar to Bitcoin network mining. Bitcoin network has been running for nearly 10 years, and there has been no obvious problem. Its PoW consensus mechanism and economic model based on it will be more robust than other consensus mechanisms.<br/>
+The consensus mechanism of Tesra Supernet adopts PoVC algorithm, which integrates the PoW and PoS algorithms of Ethernet and Bitcoin, and on this basis, the update is made. The total amount of Tesra Supernet.Tesra Supernet used to generate and distribute Tesra Supernet.Tesra Supernet is constant, which is 10 billion. PoW mining is used. Similar to bitcoin network mining. Bitcoin network has been running for nearly 10 years, and there has been no obvious problem. Its PoW consensus mechanism and economic model based on it will be more robust than other consensus mechanisms.<br/>
 
 The PoS consensus mechanism is used to package Tesra Supernet transactions, and it will be safer to handle transactions faster with the generation of. Tesra Supernet and the separation of transaction packaging. If 51% attack occurs in computing power concentration, it can only affect the generation of subsequent Tesra Supernet, and can not tamper with historical transactions to ensure the security of user account assets.
 
