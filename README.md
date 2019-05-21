@@ -27,8 +27,3 @@ Based on the Terra Supernet block chain technology, a distributed super-computin
 The scattered GPU resources are integrated to form AI supercomputing network, and it provides powerful computing support for the research and development of artificial intelligence, which will make Tesra Supernet become the next generation computing platform of artificial intelligence industry.<br/>
 
 Based on the essence of Tesra Supernet on the chain, it is a DAPP, implemented by intelligent contract. It can realize the deep learning function on the chain. Make the blockchain better serve the traditional real economy.
-
-Reference Documentation 
-=====================================
-Bitcoin White Paper<br/> 
-Ethernet White Paper
